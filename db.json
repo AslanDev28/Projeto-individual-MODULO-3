@@ -1,0 +1,160 @@
+{
+  "greatech": [
+    {
+      "id": 1,
+      "ramo/atividade": "informatica",
+      "nicho": "eletronicos",
+      "tempo_mercado": "10 anos",
+      "codigo_etica": "imersão no mundo tech é sempre uma boa escolha"
+    }
+  ],
+  "computadores": [
+    {
+      "id": 1,
+      "nome": "PC Gamer ADM",
+      "marca": "AMD",
+      "preco": "R$1.899,90",
+      "descricao": "Pc Gamer Completo, AMD6-core Cpu 3.8Ghz 8GB, Placa De Vídeo Radeon R5 2GB, SSD 240GB, mouse/teclado, Monitor HDMI Led 19.5 Polegadas",
+      "imagem": "foto.png"
+    },
+    {
+      "id": 2,
+      "nome": "PC Gamer INTEL",
+      "marca": "INTEL",
+      "preco": "R$2.899.90",
+      "descricao": "Pc Gamer Completo, INTEL CORE i5 Cpu 3.8Ghz 8GB, Placa De Vídeo Geforce GTX 1060 4GB, SSD 240GB, mouse/teclado, Monitor HDMI Led 19.5 Polegadas",
+      "imagem": "foto.png"
+    },
+    {
+      "id": 3,
+      "nome": "PC Gamer INTEL",
+      "marca": "INTEL",
+      "preco": "R$4.199.90",
+      "descricao": "Pc Gamer Completo, INTEL CORE i7 Cpu 3.9Ghz 16GB, Placa De Vídeo Geforce RTX 2060 6GB, SSD 900GB, mouse/teclado, Monitor HDMI Led 19.5 Polegadas",
+      "imagem": "foto.png"
+    },
+    {
+      "id": 4,
+      "nome": "PC Gamer AMD",
+      "marca": "AMD",
+      "preco": "R$6.799.90",
+      "descricao": "Pc Gamer Completo, AMD RYZEN 7 5800X Cpu 3.8Ghz 32GB, Placa De Vídeo Radeon AMD RX 580 8GB, SSD 480GB/HD 2TB, mouse/teclado, Monitor HDMI Led 19.5 Polegadas",
+      "imagem": "foto.png"
+    },
+    {
+      "id": 5,
+      "nome": "PC Gamer INTEL",
+      "marca": "INTEL",
+      "preco": "R$15.390.90",
+      "descricao": "Pc Gamer Completo, INTEL CORE I9 10900 Cpu 4.5Ghz 32GB, Placa De Vídeo RTX 3050 8GB, SSD 960GB/HD 2TB, mouse/teclado, Monitor HDMI Led 19.5 Polegadas",
+      "imagem": "foto.png"
+    }
+  ],
+  "notebooks": [
+    {
+      "id": 1,
+      "nome": "Notebook",
+      "marca": "LENOVO",
+      "preco": "R$1.699,90",
+      "descricao": "Notebook Lenovo IdeaPad 3i Intel Celeron N4020 Dual Core, 4GB, SSD 128GB, Windows 11, 15.6, Prata",
+      "imagem": "foto.png"
+    },
+    {
+      "nome": "Notebook",
+      "marca": "ASUS",
+      "preco": "R$2.599,99",
+      "descricao": "Notebook Asus AMD Ryzen 5-3500U, 8GB RAM, SSD 256GB, 15,6', Radeon Vega 8, Windows 11 Home, Cinza",
+      "imagem": "foto.png",
+      "id": 2
+    },
+    {
+      "nome": "Notebook",
+      "marca": "ACER",
+      "preco": "R$3.899,99",
+      "descricao": "Notebook Gamer Acer Nitro 5 An517-54-59kr Intel Core I5 Linux Gutta 8GB 512GB SSD Gtx 1650 17.Polegadas FHD",
+      "imagem": "foto.png",
+      "id": 3
+    },
+    {
+      "nome": "Notebook",
+      "marca": "SAMSUNG",
+      "preco": "R$3.499,99",
+      "descricao": "Notebook Samsung Intel Core i5-1135G7, 8GB RAM, SSD 256GB, 15.6 Full HD, Windows 11 Pro, Cinza",
+      "imagem": "foto.png",
+      "id": 4
+    },
+    {
+      "nome": "Notebook",
+      "marca": "DELL",
+      "preco": "R$10.499,99",
+      "descricao": "Notebook Gamer Dell Alienware m15 R6 Intel Core i7-11800H, GeForce RTX 3070, 16GB RAM, SSD 1TB, 15.6 FHD 165Hz, Win 11, Preto",
+      "imagem": "foto.png",
+      "id": 5
+    }
+  ],
+  "perifericos": [
+    {
+      "id": 1,
+      "nome": "Hub usb",
+      "marca": "F3",
+      "preco": "R$29,99",
+      "descricao": "HUB USB 2.0 F3 com 7 Portas USB 2.0, Preto"
+    },
+    {
+      "nome": "Cabo vga",
+      "marca": "MD9",
+      "preco": "R$9,99",
+      "descricao": "Cabo Monitor VGA MD9 Filtro 1.5m",
+      "imagem": "foto.png",
+      "id": 2
+    },
+    {
+      "nome": "Mouse gamer",
+      "marca": "RAZER",
+      "preco": "R$199,99",
+      "descricao": "Mouse Gamer Razer Viper Mini, Chroma, Optical Switch, 6 Botões, 8500DPI",
+      "imagem": "foto.png",
+      "id": 3
+    },
+    {
+      "nome": "Teclado gamer",
+      "marca": "REDRAGON",
+      "preco": "R$359,99",
+      "descricao": "Teclado Mecânico Gamer Redragon Kumara, RGB, Switch Outemu Brown",
+      "imagem": "foto.png",
+      "id": 4
+    },
+    {
+      "nome": "Headset gamer",
+      "marca": "HYPEX",
+      "preco": "R$409,99",
+      "descricao": "Headset Gamer HyperX Cloud Alpha, Drivers 50mm, Múltiplas Plataformas, P2 e P3, Preto e Vermelho",
+      "imagem": "foto.png",
+      "id": 5
+    },
+    {
+      "nome": "Mousepad",
+      "marca": "HAVIT",
+      "preco": "R$39,99",
+      "descricao": "Mousepad Gamer Havit, 700x285mm, RGB, USB, Preto ",
+      "imagem": "foto.png",
+      "id": 6
+    },
+    {
+      "nome": "Webcam",
+      "marca": "MULTILASER",
+      "preco": "R$99,99",
+      "descricao": "Webcam Multi com Microfone Integrado, 1080p 30FPS, Preto",
+      "imagem": "foto.png",
+      "id": 7
+    },
+    {
+      "nome": "Oculos de realidade virtual",
+      "marca": "OCULUS",
+      "preco": "R$4.999,99",
+      "descricao": "Oculus Quest 2 Advanced, 256GB, All In One, VR Headset, Realidade Virtual, Metaverso",
+      "imagem": "foto.png",
+      "id": 8
+    }
+  ]
+}
